@@ -121,12 +121,12 @@ Each prompt is designed for a specific layer of the AutoMAS pipeline and follows
 If you use AutoMAS or our dataset in your research, please cite:
 
 ```bibtex
-@inproceedings{raza2026automas,
+@inproceedings{raza2026automas-gh,
   title     = {{AutoMAS}: End-to-End Generation of Functional Multi-Agent Systems},
   author    = {Raza, Muhammad Anas and Islam, Niful and Wardat, Mohammad},
-  booktitle = {2026 IEEE International Conference on Software Quality, Reliability, and Security (QRS)},
+    booktitle = {2026 IEEE International Conference on Software Quality, Reliability, and Security (QRS)},
   year      = {2026},
-  url       = {https://github.com/Laboratory-software-Innovation/automas}
+doi       = {10.1007/978-3-032-43225-4_2},
 }
 ```
 
